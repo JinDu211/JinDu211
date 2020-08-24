@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "upc-fire"
+locale                   : "cn-CHINA"
+title                    : "个人介绍"
 title_separator          : "-"
 name                     : &name "Jin Du"
 description              : &description "upc2018"
