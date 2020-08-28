@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "科研能力"
-    url: /publications/
+    url: /articles/
 
   - title: "项目实践"
     url: /talks/    
@@ -13,7 +13,7 @@ main:
     url: /teaching/
         
   - title: "自我介绍"
-    url: /Blog Posts/
+    url: /year-articles/
     
   - title: "其他"
     url: /Contact/
