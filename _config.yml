@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CHINA"
-title                    : "个人介绍"
+title                    : "简介"
 title_separator          : "-"
 name                     : &name "杜金"
 description              : &description "upc2018"
