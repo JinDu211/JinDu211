@@ -1,22 +1,19 @@
 # main links links
 main:
   - title: "Publications"
-    url: /articles/
+    url: /科研能力/
 
   - title: "Talks"
-    url: /talks/    
+    url: /项目实践/    
     
   - title: "Expressions"
-    url: /expressions/
+    url: /科创比赛/
 
   - title: "Teaching"
-    url: /teaching/
+    url: /个人荣誉/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /自我介绍/
     
-  - title: "CV"
-    url: /cv/
-  
   - title: "Contact"
-    url: /contact/
+    url: /其他/
