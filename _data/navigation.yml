@@ -12,8 +12,6 @@ main:
   - title: "个人荣誉"
     url: /teaching/
         
-  - title: "自我介绍"
+  - title: "自我评价"
     url: /year-archive/
-    
-  - title: "其他"
-    url: /contact/
+  
