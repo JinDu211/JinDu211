@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "cn-CHINA"
+locale                   : "CHINA"
 title                    : "个人介绍"
 title_separator          : "-"
 name                     : &name "杜金"
@@ -83,7 +83,7 @@ author:
   bio              : "中国石油大学（华东）安全科学与工程硕士研究生"
   location         : "山东青岛"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : 
   email            : "dujin.mail@foxmail.com"
   uri              : 
   bitbucket        :
@@ -98,18 +98,18 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "staeiou"
+  wikipedia        :
 
 
 # Reading Files
